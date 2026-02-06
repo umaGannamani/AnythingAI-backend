@@ -158,3 +158,9 @@ Swagger Docs: http://localhost:5000/api-docs
 - Admins can create, edit, and delete all tasks.
 
 - Users can only access their own tasks.
+
+*** frontend git repo ***
+
+- git repo : https://github.com/umaGannamani/AnythingAI-frontend.git
+
+- live link : https://anything-ai-frontend.vercel.app/register
